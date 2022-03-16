@@ -1,1 +1,1 @@
-echo $(hostname);
+echo $(hostname)
